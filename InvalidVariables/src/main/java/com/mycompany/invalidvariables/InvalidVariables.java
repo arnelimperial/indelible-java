@@ -7,7 +7,7 @@ package com.mycompany.invalidvariables;
 
 /**
  *
- * @author 9page
+ * @author Arnel Gonzales Imperial
  */
 public class InvalidVariables {
     public static void main(String [] args){
